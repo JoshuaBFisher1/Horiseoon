@@ -11,6 +11,5 @@
 - Improved CSS formatting.
 - Fixed hyperlink tag by adding missing ID.
 
-## Screenshot
 
-![Screenshot of the web app.](assets/images/screenshot.png)
+
